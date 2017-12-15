@@ -1,0 +1,2 @@
+C:\Users\Александр\Documents\GitHub\PFMDS\executables\run_gr_moire_fitting.exe -op 100 -fpfn D:\science2\PFMDS_workfolders\gr_moire_fitting_workfolder\input_files_ljc\fitting_parameters_ljc.txt -delta_error_gold 0.002 -delta_error_fit 0.002
+pause
